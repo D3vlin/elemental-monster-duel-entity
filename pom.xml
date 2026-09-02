@@ -10,7 +10,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
-  <groupId>co.d3vlin13.elementalmonsterduel</groupId>
+  <groupId>co.d3vlin</groupId>
   <artifactId>elemental-monster-duel-entity</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
