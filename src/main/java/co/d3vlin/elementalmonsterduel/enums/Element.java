@@ -1,16 +1,16 @@
 package co.d3vlin.elementalmonsterduel.enums;
 
 public enum Element {
-    TIERRA,
-    AGUA,
-    AIRE,
-    ETER,
-    VACIO,
+    EARTH,
+    WATER,
+    AIR,
+    ETHER,
+    VOID,
     PLASMA,
-    FUEGO,
-    AZUFRE,
-    CARNE,
-    SANGRE,
-    HONGOS,
-    CARBONO
+    FIRE,
+    SULFUR,
+    FLESH,
+    BLOOD,
+    FUNGI,
+    CARBON
 }
