@@ -2,6 +2,7 @@ package co.d3vlin.elementalmonsterduel.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.Setter;
@@ -12,6 +13,7 @@ import lombok.Setter;
 @Setter
 public class DuelResultCounterEntity {
 
+    @Id
     @Column(name = "total", nullable = false)
     private Integer total;
 
