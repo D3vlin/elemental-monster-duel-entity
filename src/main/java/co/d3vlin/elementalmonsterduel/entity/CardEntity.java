@@ -42,7 +42,4 @@ public class CardEntity {
 
     @Column(name = "seal", nullable = false)
     private Integer seal;
-
-    @Column(name = "lore", nullable = false, length = 300)
-    private String lore;
 }
